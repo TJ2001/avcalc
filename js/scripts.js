@@ -20,7 +20,6 @@ var divide = function(number1, number2) {
 // var number2 = parseInt(prompt("Enter another number:"));
 
 // front-end logic
-
 $(document).ready(function() {
 	  $("form#add").submit(function(event) {
 	  event.preventDefault();
